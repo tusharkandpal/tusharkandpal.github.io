@@ -4,12 +4,12 @@
     "projectTitle": "react typescript app builder",
     "projectBrief": "react w/ typescript webpack starter.🔨",
     "technologies": [
-      "React",
+      "React.js",
       "TypeScript"
     ],
     "code": "https://github.com/tusharkandpal/react-typescript-app-builder",
     "live": "https://react-typescript-app-builder.netlify.app/",
-    "createdDate": "Aug, 2022",
+    "createdDate": "Aug, 2022"
   },
   {
     "id": 2,
