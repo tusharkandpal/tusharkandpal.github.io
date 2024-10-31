@@ -16,10 +16,10 @@
     "projectTitle": "quiz mania",
     "projectBrief": "quiz app to kill time & train mind.💭",
     "technologies": [
-      "<SiHtml5 />",
-      "<SiCss3 />",
-      "<SiBootstrap />",
-      "<SiJavascript />"
+      "SiHtml5",
+      "SiCss3",
+      "SiBootstrap",
+      "SiJavascript"
     ],
     "code": "https://github.com/tusharkandpal/quiz-mania",
     "live": "https://quiz-mania-app.netlify.app/",
