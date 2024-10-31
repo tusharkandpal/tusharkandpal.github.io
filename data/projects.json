@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "projectTitle": "react typescript app builder",
+    "projectBrief": "react w/ typescript webpack starter.🔨",
+    "technologies": [
+      "React",
+      "TypeScript"
+    ],
+    "code": "https://github.com/tusharkandpal/react-typescript-app-builder",
+    "live": "https://react-typescript-app-builder.netlify.app/",
+    "createdDate": "Aug, 2022",
+    
+  },
+  {
+    "id": 2,
+    "projectTitle": "quiz mania",
+    "projectBrief": "quiz app to kill time & train mind.💭",
+    "technologies": [
+      "<SiHtml5 />",
+      "<SiCss3 />",
+      "<SiBootstrap />",
+      "<SiJavascript />"
+    ],
+    "code": "https://github.com/tusharkandpal/quiz-mania",
+    "live": "https://quiz-mania-app.netlify.app/",
+    "createdDate": "July, 2022"
+  }
+]
