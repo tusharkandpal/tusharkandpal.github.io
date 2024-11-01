@@ -1,28 +1,130 @@
 [
   {
-    "id": 1,
+    "id": "54fb3949-e7a5-4668-8df7-b169ba170886",
     "projectTitle": "react typescript app builder",
     "projectBrief": "react w/ typescript webpack starter.🔨",
     "technologies": [
-      "SiHtml5",
-      "SiJavascript"
+      "SiReact",
+      "SiTypescript",
+      "SiBabel",
+      "SiWebpack"
     ],
-    "code": "https://github.com/tusharkandpal/react-typescript-app-builder",
-    "live": "https://react-typescript-app-builder.netlify.app/",
+    "codeUrl": "https://github.com/tusharkandpal/react-typescript-app-builder",
+    "liveUrl": "https://react-typescript-app-builder.netlify.app/",
     "createdDate": "Aug, 2022"
   },
   {
-    "id": 2,
+    "id": "0908ee88-b5c5-42f4-8653-bc0eee217e78",
     "projectTitle": "quiz mania",
     "projectBrief": "quiz app to kill time & train mind.💭",
     "technologies": [
+      "SiReact",
+      "SiTypescript",
+      "SiFirebase",
+      "SiJest"
+    ],
+    "codeUrl": "https://github.com/tusharkandpal/quiz-mania",
+    "liveUrl": "https://quiz-mania-app.netlify.app/",
+    "createdDate": "July, 2022"
+  },
+  {
+    "id": "bc424f58-4aa2-46d6-8da2-5c824f7ead27",
+    "projectTitle": "power play",
+    "projectBrief": "video library to enter the world of entertaining videos.📺",
+    "technologies": [
+      "SiReact",
+      "SiRedux",
+      "SiTailwindcss"
+    ],
+    "codeUrl": "https://github.com/tusharkandpal/power-play",
+    "liveUrl": "https://power-play.netlify.app/",
+    "createdDate": "June, 2022"
+  },
+  {
+    "id": "35194d48-7cf7-49ef-9b26-037f55e7bf3d",
+    "projectTitle": "digi notes",
+    "projectBrief": "notes app to keep track of all your notes at one place...!📝",
+    "technologies": [
+      "SiReact",
+      "SiReactrouter"
+    ],
+    "codeUrl": "https://github.com/tusharkandpal/digi-notes",
+    "liveUrl": "https://digi-notes.netlify.app/",
+    "createdDate": "May, 2022"
+  },
+  {
+    "id": "6b106953-3390-40f2-b9a3-12bc9fe1f38e",
+    "projectTitle": "hoodie mart",
+    "projectBrief": "e-commerce webapp to buy hoodies based on comfort & choice of every customer.🧥👚",
+    "technologies": [
+      "SiReact",
+      "SiReactrouter"
+    ],
+    "codeUrl": "https://github.com/tusharkandpal/ecom-hoodie-mart",
+    "liveUrl": "https://ecom-hoodie-mart.netlify.app/",
+    "createdDate": "April, 2022"
+  },
+  {
+    "id": "6f350dd7-9a11-490a-8f8d-86de6e3b7cba",
+    "projectTitle": "wings UI",
+    "projectBrief": "component library to build your own webpages faster & efficiently.🕊",
+    "technologies": [
       "SiHtml5",
       "SiCss3",
-      "SiBootstrap",
       "SiJavascript"
     ],
-    "code": "https://github.com/tusharkandpal/quiz-mania",
-    "live": "https://quiz-mania-app.netlify.app/",
-    "createdDate": "July, 2022"
+    "codeUrl": "https://github.com/tusharkandpal/wings-ui",
+    "liveUrl": "https://wings-ui.netlify.app/",
+    "createdDate": "March, 2022"
+  },
+  {
+    "id": "e333c4fc-a9e7-4a7e-a3f0-db9e2a36b978",
+    "projectTitle": "profit or loss",
+    "projectBrief": "check your stock purchase profit or loss through this app",
+    "technologies": [
+      "SiHtml5",
+      "SiCss3",
+      "SiJavascript"
+    ],
+    "codeUrl": "https://github.com/tusharkandpal/profit-or-loss",
+    "liveUrl": "https://profit-or-loss-site.netlify.app/",
+    "createdDate": "September, 2021"
+  },
+  {
+    "id": "cd7e0f79-a125-4ecb-b541-047ae50138e9",
+    "projectTitle": "fun with triangles",
+    "projectBrief": "let's play with triangles",
+    "technologies": [
+      "SiHtml5",
+      "SiCss3",
+      "SiJavascript"
+    ],
+    "codeUrl": "https://github.com/tusharkandpal/fun-with-triangles",
+    "liveUrl": "https://fun-with-triangles-pool.netlify.app/sub/hypotenuse",
+    "createdDate": "September, 2021"
+  },
+  {
+    "id": "099d9548-4084-413a-8103-08df4907c540",
+    "projectTitle": "cash register",
+    "projectBrief": "wish to manage your cash efficiently.? try the cash register app💸",
+    "technologies": [
+      "SiHtml5",
+      "SiCss3",
+      "SiJavascript"
+    ],
+    "codeUrl": "https://github.com/tusharkandpal/cash-register",
+    "liveUrl": "https://cash-register-site.netlify.app/",
+    "createdDate": "September, 2021"
+  },
+  {
+    "id": "6a67250f-a09c-4ccf-99b2-28b9b3a22da3",
+    "projectTitle": "money heist quiz",
+    "projectBrief": "CLI quiz app to see are YOU the next to join professor's gang🥷",
+    "technologies": [
+      "SiNodedotjs"
+    ],
+    "codeUrl": "https://github.com/tusharkandpal/cli-money-heist-quiz",
+    "liveUrl": "https://replit.com/@TusharKandpal/CLI-App-How-Well-Do-You-Know-ME?embed=1output=1#index.js",
+    "createdDate": "September, 2021"
   }
 ]
