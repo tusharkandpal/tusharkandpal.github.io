@@ -91,19 +91,6 @@
     "createdDate": "September, 2021"
   },
   {
-    "id": "cd7e0f79-a125-4ecb-b541-047ae50138e9",
-    "projectTitle": "fun with triangles",
-    "projectBrief": "let's play with triangles🔺",
-    "technologies": [
-      "SiHtml5",
-      "SiCss3",
-      "SiJavascript"
-    ],
-    "codeUrl": "https://github.com/tusharkandpal/fun-with-triangles",
-    "liveUrl": "https://fun-with-triangles-pool.netlify.app/sub/hypotenuse",
-    "createdDate": "September, 2021"
-  },
-  {
     "id": "099d9548-4084-413a-8103-08df4907c540",
     "projectTitle": "cash register",
     "projectBrief": "wish to manage your cash efficiently.? try the cash register app💸",
